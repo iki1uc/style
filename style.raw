@@ -1,0 +1,18 @@
+NAME = style
+ROOT = iki1uc
+SYSTEM = 6E
+MODUL = style
+DIM = D0
+
+ROLLE = Form / Oberfläche / Erscheinung
+FUNKTION = visuelle Struktur, Rahmen, Layout, Übergänge
+
+POSITION = D0 (Form-Achse)
+PARITY = D4 ↔ D5 (Master/Slave)
+TMP-LAEUFER = SYQ (Übergangs-Stabilisator)
+
+STABILITAET = 12e (Form in jede Richtung)
+MODE = REAL-LIVE
+
+STATUS = STABIL
+READY = 100%
